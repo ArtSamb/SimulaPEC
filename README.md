@@ -65,3 +65,16 @@ A norma determina que para cada amostragem, é permitido que até 10% dos PCs te
 A razão de serem utilizados "Dados Fictícios" foi com a intenção de evitar riscos e prejuízos ao consumidor e ao técnico ao analisar um mapeamento. No entanto, caso já tenha sido feito a análise, é possível adicionar esses dados a simulação também. Esses dados são chamados de "Dados Reais".
 
 ## Teste de Precisão e Norma Brasileira - Dados Reais
+Para casos em que já existam os dados calculados em campo, é possível adiciona-los na simulação também. Para isso, esses dados precisam estar num arquivo .txt e, por questões de compatibilidades, recomendamos que seja substituído as vírgulas (,) por pontos (.) e que a quantidade de PCs seja a mesma que a fornecida pelo usuário.
+
+Clicando no botão "Carregar Dados Reais", selecione o arquivo que esteja os dados e já pode começar a simulação. O progresso e os testes realizados com esses são exatamente os mesmos que foram realizados nos "Dados Fictícios". A principal diferença vai ser que os resultados vão ter um destaque maior tanto no gráfico quanto na planilha. Na imagem abaixo, temos um exemplo de um gráfico produzido com os dados reais:
+
+<img width="1400" height="600" alt="testeRY_15012026" src="https://github.com/user-attachments/assets/0b626a7f-5654-4890-a5f7-edc1084c2a8f" />
+
+Em que os dados reais são representados pela linha preta "R".
+
+## Considerações finais
+Vale a pena relembrar que esse aplicativo ainda está em fase de teste, e como tal, está sujeito a possíveis erros ou inconsistências. Pedimmos aos usuários que testarem e notarem algum problema, ou queiram dar alguma sugestão de como melhora-lo esteticamente, possam comentar na parte de "issues" do repositório. Faremos o que pudermos para torna-lo mais atrativo.
+
+### Aviso
+Por questões de ética e transparência, temos que informar que foram utilizadas duas IAs generativas (ChatGPT e Lumo) para verificação e identificação de algum possível erro. Todas as respostas geradas por elas são analisadas e decidimos se devemos implantar ao não.
