@@ -1,5 +1,5 @@
 # SimulaPEC
-Programa computacional, baseado em Python, desenvolvido como parte de uma pesquisa de pós-doutorado que possui como objetivo gerar gráficos e tabelas de aceitação e rejeição de mapeamentos com escalas grandes (1:1000 ; 1:2000; 1:5000; 1:10000) analisando seus pontos de controles e seus respectivos erros nos eixos X e Y (ou Leste e Norte).
+Programa computacional, baseado em Python, desenvolvido como parte de uma pesquisa de pós-doutorado que possui como objetivo gerar gráficos e tabelas de aceitação e rejeição de mapeamentos em qualquer escala (1:1.000 ; 1:2.000; 1:5.000; 1:10.000; 1:25.000; 1:50.000; 1:100.000, entre outras) analisando seus pontos de controles e seus respectivos erros nos eixos X, Y e Z (Leste, Norte, Altimetria).
 
 ## Introdução teórica
 Na atual norma brasileira (Brasil - 1984), o decreto nº 89.817 de 20 de Junho de 1984 estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional. No entanto, este foi elaborado para produtos analógicos em escalas pequenas (1:25000 ou menores), os quais são de competência do IBGE (Instituto Brasileiro de Geografia e Estatística). Neste trabalho, têm-se em conta os produtos em meio digital e procura-se a implementação de uma norma nos moldes da ABNT (Associação Brasileira de Normas Técnicas) que visam escalas grandes.
