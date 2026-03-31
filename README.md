@@ -1,17 +1,17 @@
 # SimulaPEC
-Programa computacional, baseado em Python, desenvolvido como parte de uma pesquisa de pós-doutorado que possui como objetivo gerar gráficos e tabelas de aceitação e rejeição de mapeamentos em qualquer escala (1:1.000 ; 1:2.000; 1:5.000; 1:10.000; 1:25.000; 1:50.000; 1:100.000, entre outras) analisando seus pontos de controles e seus respectivos erros nos eixos X, Y e Z (Leste, Norte, Altimetria).
+Programa computacional, baseado em Python, desenvolvido como parte de uma pesquisa de atualização de pós-doutorado que teve como objetivo gerar gráficos e tabelas de aceitação e rejeição de mapeamentos em qualquer escala (1:1.000 ; 1:2.000; 1:5.000; 1:10.000; 1:25.000; 1:50.000; 1:100.000, entre outras) analisando seus pontos de controle e respectivos erros nos eixos X, Y e Z (Leste, Norte, Altimetria).
 
 ## Introdução teórica
 Na atual norma brasileira (Brasil - 1984), o decreto nº 89.817 de 20 de Junho de 1984 estabelece as Instruções Reguladoras das Normas Técnicas da Cartografia Nacional. No entanto, este foi elaborado para produtos analógicos em escalas pequenas (1:25000 ou menores), os quais são de competência do IBGE (Instituto Brasileiro de Geografia e Estatística). Neste trabalho, têm-se em conta os produtos em meio digital e procura-se a implementação de uma norma nos moldes da ABNT (Associação Brasileira de Normas Técnicas) que visam escalas grandes.
 
 Antes de darmos continuidade, é necessário explicar algumas nomeclaturas que utilizadas muitas vezes nesse trabalho:
-- Pontos de Controles (PCs) = São pontos fixos de um mapeamento (pontos bem definidos e identificáveis, como cantos de boca de lobo) que são utilizados para a aplicação do controle de qualidade posicional.
-- Padrão de Exatidão Cartográfica (PEC) = Também chamado de 'Erro Admissível', corresponde ao valor máximo (normalmente em metros) aceitável que um erro possa assumir num mapeamento. Esse valor varia a depender da classe que se está analisando e qual a escala utilizada.
-- Aceitação / Rejeição = Esse valor, dado em porcentagem, corresponde a quantidade de pontos que está dentro (ou fora) do determinado pela norma.
+- Pontos de Controle (PCs) = São pontos fixos de um mapeamento (pontos bem definidos e identificáveis, como cantos de boca de lobo) que são utilizados para a aplicação do controle de qualidade posicional.
+- Padrão de Exatidão Cartográfica (PEC) = Também chamado de 'Erro Admissível', corresponde ao valor máximo (normalmente em metros) aceitável que um erro possa assumir num mapeamento. Esse valor varia a depender da classe que se está analisando e qual a escala utilizada. Atualmente, podes er definido como o PEC-PCD.
+- Aceitação / Rejeição = Esse valor, dado em porcentagem, corresponde ao percentual da quantidade de pontos de controle que está dentro (ou fora) do determinado pela norma.
 - Teste da Norma Brasileira = Também podendo ser chamado de teste direto, corresponde a norma vigente em relação a análise dos PCs. É estabelecido que o valor de aceitação de um mapeamento tem que ser no mínimo de 90% (ou ter uma rejeição máxima de 10%).
-- Teste de Precisão = Um tipo de teste proposto pela pesquisa de pós-doutorado utilizando a Estatística para a análise dos PCs. O teste em questão se resume ao teste do Qui quadrado. A aceitação / rejeição utilizado também foi de 90% / 10%.
+- Teste de Precisão = Um tipo de teste proposto pela pesquisa de pós-doutorado utilizando a Estatística para a análise dos PCs. O teste em questão se resume ao teste do Qui quadrado. A aceitação / rejeição utilizado também foi de 90% / 10%, no caso do Brasil.
 
-Para mais detalhes sobre a pesquisa, recomenda-se a leitura do documento "PosDocV3" disponível acima.
+Para mais detalhes sobre a pesquisa, recomenda-se a leitura do documento "PosDocV3.doc" disponível acima.
 
 
 # SimulaPEC - O aplicativo
