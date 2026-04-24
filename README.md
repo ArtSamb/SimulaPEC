@@ -14,9 +14,9 @@ Antes de darmos continuidade, é necessário explicar algumas nomeclaturas que u
 Para mais detalhes sobre a pesquisa, recomenda-se a leitura do documento "PosDocV3.doc" disponível acima.
 
 ### Outras referências:
-- Nero, M. A., 2005. Propostas para o controle de qualidade de bases cartográficas com ênfase na componente posicional Ph.D. Thesis, Escola Politécnica da Universidade de São Paulo, São Paulo, São Paulo, Brazil, 187pp. [link](https://teses.usp.br/teses/disponiveis/3/3138/tde-04112005-110341/pt-br.html)
+- Nero, M. A., 2005. Propostas para o controle de qualidade de bases cartográficas com ênfase na componente posicional Ph.D. Thesis, Escola Politécnica da Universidade de São Paulo, São Paulo, São Paulo, Brazil, 187pp. ([link](https://teses.usp.br/teses/disponiveis/3/3138/tde-04112005-110341/pt-br.html))
 - Nero, M. A., 2006. Metodologias avançadas para o controle de qualidade posicional de bases cartográficas. Relatório de Pós-doutorado, Escola Politécnica da Universidade de São Paulo, São Paulo, São Paulo, Brazil, 198p.
-- NERO, M. A.; CINTRA, Jorge Pimentel ; FERREIRA, G. F. ; PEREIRA, T. A. J. ; FARIA, T. S. . A COMPUTATIONAL TOOL TO EVALUATE THE SAMPLE SIZE IN MAP POSITIONAL ACCURACY. Boletim de Ciências Geodésicas, v. 23, p. 445-460, 2017.
+- NERO, M. A.; CINTRA, Jorge Pimentel ; FERREIRA, G. F. ; PEREIRA, T. A. J. ; FARIA, T. S. . A COMPUTATIONAL TOOL TO EVALUATE THE SAMPLE SIZE IN MAP POSITIONAL ACCURACY. Boletim de Ciências Geodésicas, v. 23, p. 445-460, 2017. ([link](http://dx.doi.org/10.1590/s1982-21702017000300030))
 
 
 # SimulaPEC - O aplicativo
