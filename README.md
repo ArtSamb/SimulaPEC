@@ -17,6 +17,11 @@ Para mais detalhes sobre a pesquisa, recomenda-se a leitura do documento "PosDoc
 - Nero, M. A., 2005. Propostas para o controle de qualidade de bases cartográficas com ênfase na componente posicional Ph.D. Thesis, Escola Politécnica da Universidade de São Paulo, São Paulo, São Paulo, Brazil, 187pp. ([link](https://teses.usp.br/teses/disponiveis/3/3138/tde-04112005-110341/pt-br.html))
 - Nero, M. A., 2006. Metodologias avançadas para o controle de qualidade posicional de bases cartográficas. Relatório de Pós-doutorado, Escola Politécnica da Universidade de São Paulo, São Paulo, São Paulo, Brazil, 198p.
 - NERO, M. A.; CINTRA, Jorge Pimentel ; FERREIRA, G. F. ; PEREIRA, T. A. J. ; FARIA, T. S. . A COMPUTATIONAL TOOL TO EVALUATE THE SAMPLE SIZE IN MAP POSITIONAL ACCURACY. Boletim de Ciências Geodésicas, v. 23, p. 445-460, 2017. ([link](http://dx.doi.org/10.1590/s1982-21702017000300030))
+- ARIZA-LÓPEZ, F. J. Curso: Introducción a la Calidad em Cartográfía. In: [s.l.: s.n.], 2001. ([link](http://azimuth.univalle.edu.co/cc.pdf))
+- ARIZA-LÓPEZ, F. J.; ATKINSON-GORDO, A. D.; NERO, M. A.; et al. La Componente Posicional de los Datos Geográficos: análisis crítico de los Métodos de Evaluación y Reporte en Hispanoamérica. Revista Cartográfica, v. 83, p. 91–144, 2007.
+- ARIZA-LÓPEZ, F. J.; PINILLA, C.; LÓPEZ, R.; et al. Uso de la simulación en Cartografía: conceptos básicos y aplicaciones. Mapping – Revista Internacional de Ciencias de la Tierra, v. 71, 2001. ([link](http://www.mappinginteractivo.com/plantilla-ante.asp?id_articulo=69))
+- ARIZA-LÓPEZ, Francisco Javier. Calidad en la producción cartográfica. Madrid: Ra-Ma, 2002.
+- ARIZA-LÓPEZ, Francisco Javier; GARCÍA-BALBOA, José Luis; AMOR-PULIDO, Raul. Casos prácticos de calidad en la producción cartográfica. Jaén: Universidad de Jaén, 2004.
 
 
 # SimulaPEC - O aplicativo
