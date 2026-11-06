@@ -6,7 +6,7 @@ Na atual norma brasileira (Brasil - 1984), o decreto nº 89.817 de 20 de Junho d
 
 Antes de darmos continuidade, é necessário explicar algumas nomeclaturas que utilizadas muitas vezes nesse trabalho:
 - Pontos de Controle (PCs) = São pontos fixos de um mapeamento (pontos bem definidos e identificáveis, como cantos de boca de lobo) que são utilizados para a aplicação do controle de qualidade posicional.
-- Padrão de Exatidão Cartográfica (PEC) = Também chamado de 'Erro Admissível', corresponde ao valor máximo (normalmente em metros) aceitável que um erro possa assumir num mapeamento. Esse valor varia a depender da classe que se está analisando e qual a escala utilizada. Atualmente, podes er definido como o PEC-PCD.
+- Padrão de Exatidão Cartográfica (PEC) = Também chamado de 'Erro Admissível', corresponde ao valor máximo (normalmente em metros) aceitável que um erro possa assumir num mapeamento. Esse valor varia a depender da classe que se está analisando e qual a escala utilizada. Atualmente, pode ser definido como o PEC-PCD.
 - Aceitação / Rejeição = Esse valor, dado em porcentagem, corresponde ao percentual da quantidade de pontos de controle que está dentro (ou fora) do determinado pela norma.
 - Teste da Norma do País = Também podendo ser chamado de teste direto, corresponde a norma vigente em relação a análise dos PCs. É estabelecido que o valor de aceitação de um mapeamento tem que ser no mínimo de 90% (ou ter uma rejeição máxima de 10%).
 - Teste de Precisão = Um tipo de teste proposto pela pesquisa de pós-doutorado utilizando a Estatística para a análise dos PCs. O teste em questão se resume ao teste do Qui quadrado. A aceitação / rejeição utilizado também foi de 90% / 10%, no caso do Brasil.
