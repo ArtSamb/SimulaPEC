@@ -75,7 +75,7 @@ Em seguida, grupos de PCs de tamanho n são formados. O tamanho desses grupos va
 
 Agora, para o Teste da Norma do País.
 
-A norma determina que para cada amostragem, é permitido que até 10% dos PCs tenha um erro acima do PEC. Por isso também é chamado de teste direto. Similar ao Teste de Precisão de Precisão, grupos de tamanho n são formados, o processo é repetido pela quantidade determinada pelo usuário e por fim temos o PRM% para cada nível de rejeição.
+A norma determina que para cada amostragem, é permitido que até 10% dos PCs tenha um erro acima do PEC. Por isso também é chamado de teste direto. Similar ao Teste de Precisão, grupos de tamanho n são formados, o processo é repetido pela quantidade determinada pelo usuário e por fim temos o PRM% para cada nível de rejeição.
 
 A razão de serem utilizados "Dados Fictícios" foi com a intenção de evitar riscos e prejuízos ao consumidor e ao técnico ao analisar um mapeamento. No entanto, caso já tenha sido feito a análise, é possível adicionar esses dados a simulação também. Esses dados são chamados de "Dados Reais".
 
@@ -89,7 +89,7 @@ Clicando no botão "Carregar Dados Reais", selecione o arquivo que esteja os dad
 Em que os dados reais são representados pela linha preta tracejada "R".
 
 ## Considerações finais
-Vale a pena relembrar que esse aplicativo ainda está em fase de teste, e como tal, está sujeito a possíveis erros ou inconsistências. Pedimmos aos usuários que testarem e notarem algum problema, ou queiram dar alguma sugestão de como melhora-lo esteticamente, possam comentar na parte de "issues" do repositório. Faremos o que pudermos para torna-lo mais atrativo.
+Vale a pena relembrar que esse aplicativo ainda está em fase de teste, e como tal, está sujeito a possíveis erros ou inconsistências. Pedimos aos usuários que testarem e notarem algum problema, ou queiram dar alguma sugestão de como melhora-lo esteticamente, possam comentar na parte de "issues" do repositório. Faremos o que pudermos para torna-lo mais atrativo.
 
 ### Aviso
 Por questões de ética e transparência, temos que informar que foram utilizadas duas IAs generativas (ChatGPT e Lumo) para verificação e identificação de algum possível erro. Todas as respostas geradas por elas são analisadas e decidimos se devemos implantar ao não.
