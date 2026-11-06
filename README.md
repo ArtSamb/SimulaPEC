@@ -92,4 +92,4 @@ Em que os dados reais são representados pela linha preta tracejada "R".
 Vale a pena relembrar que esse aplicativo ainda está em fase de teste, e como tal, está sujeito a possíveis erros ou inconsistências. Pedimos aos usuários que testarem e notarem algum problema, ou queiram dar alguma sugestão de como melhora-lo esteticamente, possam comentar na parte de "issues" do repositório. Faremos o que pudermos para torna-lo mais atrativo.
 
 ### Aviso
-Por questões de ética e transparência, temos que informar que foram utilizadas duas IAs generativas (ChatGPT e Lumo) para verificação e identificação de algum possível erro. Todas as respostas geradas por elas são analisadas e decidimos se devemos implantar ao não.
+Por questões de ética e transparência, temos que informar que foram utilizadas duas IAs generativas (ChatGPT e Lumo) para verificação e identificação de algum possível erro. Todas as respostas geradas por elas são analisadas e decidimos se devemos implantar ou não.
