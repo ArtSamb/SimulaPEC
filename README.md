@@ -27,19 +27,11 @@ Para mais detalhes sobre a pesquisa, recomenda-se a leitura do documento "PosDoc
 # SimulaPEC - O aplicativo
 Esta parte será destinada a falar sobre o aplicativo em si. Recomendamos que ao testar, opte para as versões mais recentes, visto que elas sempre apresentarão melhoras em relação as antigas, seja comesticamente ou conceitualmente; sempre será informado qual mudança foi feita. Todas as versões até o presente momento apresentaram "teste" no nome (junto com a data de modificação), devido ao fato que ainda não temos certeza de como o produto final será vizualmente falando. Qualquer alteração feita na interface será atualizada nessa parte.
 
-<img width="502" height="290" alt="2026-04-22 20_10_15-SimulaPEC - Selecione o idioma _ Select Language" src="https://github.com/user-attachments/assets/f8235f2f-1cf1-422c-a950-f849d1ef6cbe" />
+<img width="340" height="537" alt="2026-11-06 09_29_24-NVIDIA GeForce Overlay" src="https://github.com/user-attachments/assets/c763b206-003f-4d2c-88ef-1151842b0403" />
 
-Até o presente momento, estamos trabalhando com uma versão "dual", em que o aplicativo funciona em dois idiomas: Português (Original) e Inglês. Nessa parte, é para selecionar qual idioma quer utilizar.
+Até o presente momento, o aplicativo funciona em 3 idiomas (português, inglês e espanhol), os quais dá para ser alterado através da listbox no topo da interface principal (com o nome de "Language"). O padrão, ou seja, o idioma que se inicia, é o português, mas dá para facilmente altera-lo escolhando outro da listbox. Alterado, as nomeclaturas tanto da interface quanto da dos gráficos são alterados também.
 
-<img width="344" height="485" alt="2026-04-22 20_10_43-SimulaPEC Teste 22_04_2026" src="https://github.com/user-attachments/assets/03da5e21-01e6-49aa-94b3-0038cbc732be" />
-
-Na imagem acima está a versão em português.
-
-<img width="333" height="484" alt="2026-04-22 20_21_31-SimulaPEC Test 22_04_2026" src="https://github.com/user-attachments/assets/267723f5-71ea-4975-ac50-6be563498cc0" />
-
-E na imagem acima está a versão em inglês.
-
-Nas imagens acima, tem-se a interface inicial do SimulaPEC. Para começar o processo, é necessário preencher os 6 parâmetros acima. Estes são:
+Na imagem acima, tem-se a interface inicial do SimulaPEC. Para começar o processo, é necessário preencher os 6 parâmetros acima. Estes são:
 - "Número de PCs" = Bem direto, é o número de Pontos de Controles do mapeamento em análise.
 - "Erro admissível (PEC)" = É o valor máximo do erro permitido em metros. Este valor varia a depender da classe e da escala utilizada.
 - "%PCs acima do PEC" = Basicamente, qual o nível de rejeição admitido. A Norma Brasileira estabelece que seja 10% (não é necessário colocar o '%').
